@@ -22,9 +22,6 @@ Follow the steps bellow to generate a crypted malwarer that can be used on a C# 
 
 **Warning: Please Do Not Scan The File With Virus Total!**
 
-### Results
-
-https://antiscan.me/scan/new/result?id=i55PH2FhUHID
 
 ## Preview 
 
